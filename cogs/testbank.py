@@ -1,11 +1,8 @@
 from discord.ext import commands
-from cogs.formulas import quad
 from random import randint
 
-import discord
 
-
-class TestBank(commands.Cog):
+class Test_Bank(commands.Cog, name="Test Bank"):
 
     def __init__(self, bot):
         self.bot = bot
@@ -24,7 +21,5 @@ class TestBank(commands.Cog):
             ctx.send(eq + ans)
 
 
-
-
 def setup(bot):
-    bot.add_cog(TestBank(bot))
+    bot.add_cog(Test_Bank(bot))
