@@ -1,0 +1,208 @@
+﻿1) Covalent bonding is due to
+A) the sharing of electrons between atoms.
+B) the transfer of electrons between atoms.
+C) unequal charge distributions around neutral molecules.
+D) atoms bonding to hydrogen molecules.
+Answer: A
+
+2) Ionic bonding is due to
+A) the sharing of electrons between atoms.
+B) the transfer of electrons between atoms.
+C) unequal charge distributions around neutral molecules.
+D) atoms bonding to hydrogen molecules.
+Answer: B
+
+3) Van der Waals bonding is due to
+A) the sharing of electrons between atoms.
+B) the transfer of electrons between atoms.
+C) unequal charge distribution around neutral molecules.
+D) atoms bonding to hydrogen molecules.
+Answer: C
+
+4) In general, which of the following is usually the strongest bond?
+A) hydrogen bond
+B) van der Waals bond
+C) ionic bond
+Answer: C
+
+5) In general, which of the following is usually the weakest bond?
+A) hydrogen bond
+B) van der Waals bond
+C) ionic bond
+D) covalent bond
+Answer: B
+
+6) For a diatomic quantum mechanical rotator, the energy difference between adjacent energy
+levels
+A) increases as L increases.
+B) decreases as L increases.
+C) is constant for all L.
+D) varies randomly as L increases.
+Answer: A
+
+7) A diatomic quantum mechanical rotator in the L = 1 quantum state has energy E. The same
+rotator in the L = 2 quantum state will have energy equal to
+A) 2E.
+B) 3E.
+C) 6E.
+D) none of the given answers.
+Answer: B
+
+8) In its lowest quantum state, the energy of a diatomic harmonic oscillator having frequency f is
+A) hf/4.
+B) hf/2.
+C) hf.
+D) 3hf/2.
+Answer: B
+
+9) For a diatomic quantum mechanical vibrator, the energy difference between adjacent quantum
+states
+A) increases as the integer v increases.
+B) decreases as the integer v increases.
+C) is constant for all values of the integer v.
+D) varies randomly as the integer v increases.
+Answer: C
+
+10) In its lowest quantum state, a diatomic quantum mechanical rotator has a rotational energy of
+A) zero.
+B) .
+C) .
+D) none of the given answers.
+Answer: A
+
+
+11) If a diatomic quantum mechanical vibrator in its ground state has energy E, what is its energy
+in its second state above the ground state?
+A) E.
+B) 3E.
+C) 5E.
+D) 7E.
+E) 9E.
+Answer: C
+
+
+12) Metallic bonding is due to
+A) the sharing of electrons by all atoms.
+B) the transfer of electrons between atoms.
+C) unequal charge distributions around neutral molecules.
+D) atoms bonding to hydrogen molecules.
+Answer: A
+
+
+13) In a good conductor, the highest energy band containing electrons is
+A) only partially filled.
+B) completely filled.
+C) completely empty.
+Answer: A
+
+
+14) In a good insulator, the highest energy band containing electrons, called the valence band, is
+A) only partially filled.
+B) completely filled.
+C) completely empty.
+Answer: B
+
+
+15) An n-type semiconductor is produced by
+A) doping the host crystal with donor impurities.
+B) doping the host crystal with acceptor impurities.
+C) pure crystals of germanium.
+Answer: A
+
+
+16) A p-type semiconductor is produced by
+A) doping the host crystal with donor impurities.
+B) doping the host crystal with acceptor impurities.
+C) pure crystals of germanium.
+Answer: B
+
+17) In a p-type semiconductor, a hole is
+A) a donor atom.
+B) an extra electron supplied by a donor atom.
+C) a missing atom in the crystalline structure.
+D) a region where an electron is missing.
+Answer: D
+
+
+18) When a voltage is applied across a p-type semiconductor, the holes
+A) are destroyed.
+B) move toward the positive electrode.
+C) move toward the negative electrode.
+D) do not move.
+Answer: C
+
+
+19) If a battery is connected to a diode with the positive terminal to the p side and the negative
+terminal to the n side, then diode is said to be
+A) forward biased.
+B) reversed biased.
+C) Neither choice is correct.
+Answer: A
+
+
+20) A simple junction transistor consists of three semiconductor sections consisting of
+A) only pnp semiconductors.
+B) only npn semiconductors.
+C) either pnp or npn semiconductors.
+D) none of the given combinations.
+Answer: C
+
+
+29.2 Problems
+1) A diatomic quantum mechanical oscillator has a moment of inertia of 7.73 × 10-45 kg ∙ m2.
+What is the rotational energy when it is in the quantum state characterized by L = 2? (1 eV =
+1.60 × 10-19 J, h = 6.626 × 10-34 J ∙ s)
+A) 2.27 × 10-5 eV
+B) 2.70 × 10-5 eV
+C) 7.22 × 10-5 eV
+D) 8.71 × 10-5 eV
+Answer: B
+
+
+2) A diatomic molecule has 2.6 × 10-5 eV of rotational energy in the L = 2 quantum state. What
+is its rotational energy in the L = 1 quantum state? (1 eV = 1.60 × 10-19 J, h = 6.626 × 10-34 J ∙
+s)
+A) 3.4 × 10-6 eV
+B) 5.3 × 10-6 eV
+C) 7.8 × 10-6 eV
+D) 8.7 × 10-6 eV
+Answer: D
+
+
+3) A diatomic molecule has 18 × 10-5 eV of rotational energy in the L = 2 quantum state. What
+is its rotational energy in the L = 0 quantum state? (1 eV = 1.60 × 10-19 J, h = 6.626 × 10-34 J ∙
+s)
+A) 9.0 × 10-5 eV
+B) 6.0 × 10-5 eV
+C) 3.0 × 10-5 eV
+D) 0 eV
+Answer: D
+
+
+4) Estimate the maximum rotational energy (in electron-volts) for a free and freely-spinning
+diatomic hydrogen molecule in the L = 2 quantum state. The equilibrium separation for the
+atoms in the H2 molecule is 0.075 nm. (1 eV = 1.60 × 10-19 J, mproton = 1.67 × 10-27 kg, h =
+6.626 × 10-34 J ∙ s)
+A) 0.011 eV
+B) 0.022 eV
+C) 0.033 eV
+D) 0.044 eV
+Answer: D
+
+
+5) A diatomic molecule is vibrating in the v = 1 quantum state with a frequency of 2.0 × 1013
+
+B) 0.083 eV
+C) 0.12 eV
+D) 0.17 eV
+Answer: C
+
+
+6) The energy gap between the valence and conduction bands in a certain semiconductor is 1.25
+eV. What is the threshold wavelength for optical absorption in this substance? (c = 3.00 × 108
+m/s, h = 6.626 × 10-34 J ∙ s)
+A) 599 nm
+B) 959 nm
+C) 873 nm
+D) 994 nm
+Answer: D
