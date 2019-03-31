@@ -24,20 +24,22 @@ class Test_Bank(commands.Cog, name="Test Bank"):
                 eq = f"Q: Find the zeros of the quadratic equation {a}x^2 + ({b})x + ({c})\n"
                 ans = f"A: {quad(a, b, c)}"
                 await ctx.send(eq + ans)
+
         elif subject == "physics":
             f = open("cogs/utils/Testbankpdf.txt", "r")
             n = 0
             split_lines = f.read().split("\n\n")
             output = ""
+            taken_nos = []
 
-            for question_n in split_lines:
-                if n == 5:
-                    break
-                if bool(getrandbits(1)):
-                    output += question_n
-                    output += '\n'
-                    n += 1
-                
+            for i in range(5):
+                a = randint(0, len(split_lines) - 1)
+
+                if a in taken_nos:
+                    i = i - 1
+                    continue
+
+                output += split_lines[a] + '\n'
             
             await ctx.send(output)
             f.close()
